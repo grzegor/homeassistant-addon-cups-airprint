@@ -1,4 +1,4 @@
-FROM ghcr.io/hassio-addons/debian-base:7.1.0
+FROM ghcr.io/hassio-addons/debian-base:7.3.5@sha256:0459b751421e9c446b10668bdaac3130f65d39fe0f6a2788eb89580cec90b279
 
 LABEL io.hass.version="1.0" io.hass.type="addon" io.hass.arch="aarch64|amd64"
 
